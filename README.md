@@ -1,6 +1,6 @@
 # alcool_ou_gasolina
 
-A new Flutter project.
+Projeto em Flutter que faz o calculo para determinar melhor opção entre gasolina e alcool.
 
 ## Getting Started
 
